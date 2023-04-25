@@ -5,6 +5,7 @@ Minecraft Bedrock Scripting API Database
 <hr>
 Usage examples:
 <br>
+
 ```js
 import database from './database';
 
