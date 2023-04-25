@@ -3,8 +3,8 @@ Minecraft Bedrock Scripting API Database
 <hr>
 ##Requires a scoreboard objective named 'database'
 <hr>
-<br>
 Usage examples:
+<br>
 ```js
 import database from './database';
 
