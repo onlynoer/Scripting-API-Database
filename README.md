@@ -1,7 +1,7 @@
 # Scripting-API-Database
 Minecraft Bedrock Scripting API Database
 <hr>
-## Requires a scoreboard objective named 'database'
+# Requires a scoreboard objective named 'database'
 <hr>
 Usage examples:
 <br>
